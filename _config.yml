@@ -4,7 +4,7 @@ plugins:
   - jekyll-paginate-v2
 exclude:
   - /vendor/
-title: TEST
+title: Travis Alongi
 subtitle: A simple yet classy theme for your Jekyll website or blog
 email: blcentra@gmail.com
 name: Ben Centra
